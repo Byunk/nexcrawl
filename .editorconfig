@@ -20,9 +20,6 @@ indent_size = 2
 indent_size = 2
 max_line_length = 100
 
-[*.rs]
-max_line_length = 100
-
 [*.toml]
 indent_size = 4
 
